@@ -2,7 +2,15 @@ package jaxb2;
 
 import javax.annotation.Resource;
 
+import org.springframework.oxm.Marshaller;
+import org.springframework.oxm.Unmarshaller;
+import org.springframework.stereotype.Component;
 
+
+/**
+ * @author Henry
+ * 
+ */
 @Component
 public class MarshalAndUnmarshalService {
 
