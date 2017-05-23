@@ -1,6 +1,3 @@
-# Ignore everything in this directory 
-*
-
 .classpath
 .project
 .settings/
